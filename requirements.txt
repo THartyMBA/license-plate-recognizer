@@ -1,0 +1,8 @@
+streamlit>=1.32
+ultralytics
+easyocr
+torch
+torchvision
+Pillow
+numpy
+requests
